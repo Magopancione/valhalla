@@ -1,5 +1,7 @@
 # Valhalla Docker image by GIS • OPS
 
+Autobuild
+
 A hyper-flexible Docker image for the excellent [Valhalla](https://github.com/valhalla/valhalla) routing framework.
 
 ```bash
