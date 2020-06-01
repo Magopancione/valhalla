@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-url="https://github.com/valhalla/valhalla"
+#url="https://github.com/valhalla/valhalla"
+url="https://github.com/Magopancione/valhalla_gitclone302.git"
 NPROC=$(nproc)
 
 git clone $url valhalla_git
